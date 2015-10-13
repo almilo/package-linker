@@ -1,2 +1,2 @@
 # package-linker
-Link utility for npm package
+Link utility for npm packages
