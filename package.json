@@ -2,6 +2,9 @@
   "name": "package-linker",
   "version": "0.0.1",
   "description": "Link utility for npm packages",
+  "bin": {
+    "npmpl": "./cli.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/almilo/package-linker.git"
@@ -16,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/almilo/package-linker/issues"
   },
-  "homepage": "https://github.com/almilo/package-linker#readme"
+  "homepage": "https://github.com/almilo/package-linker#readme",
+  "dependencies": {
+    "shelljs": "^0.5.3"
+  }
 }
