@@ -1,0 +1,20 @@
+{
+  "name": "package-linker",
+  "version": "0.0.0",
+  "description": "Link utility for npm packages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almilo/package-linker.git"
+  },
+  "keywords": [
+    "package",
+    "link",
+    "utility"
+  ],
+  "author": "Alberto Mijares <almilo@almilo.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/almilo/package-linker/issues"
+  },
+  "homepage": "https://github.com/almilo/package-linker#readme"
+}
