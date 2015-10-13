@@ -1,6 +1,6 @@
 {
   "name": "package-linker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Link utility for npm packages",
   "bin": {
     "npmpl": "./cli.js"
